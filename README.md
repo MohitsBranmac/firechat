@@ -1,6 +1,6 @@
 # firechat
 
-> A Vue.js project
+> A Real-Time Chat App made with Vuejs, Vuex and Firebase. And Love ofcourse! 
 
 ## Build Setup
 
