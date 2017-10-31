@@ -16,5 +16,8 @@ const state = {
 
 export default new Vuex.Store ({
   state,
-  modules: {}
+  modules: {
+    users,
+    conversations
+  }
 });
