@@ -7,7 +7,7 @@ import Firebase from 'firebase';
 import 'Firebase/firestore';
 import config from '../config';
 
-firebase.initializeApp (config);
+Firebase.initializeApp (config);
 
 Vue.use (Vuex);
 const state = {
